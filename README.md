@@ -1,4 +1,6 @@
 # OligoNN
+[![DOI](https://zenodo.org/badge/505974208.svg)](https://zenodo.org/badge/latestdoi/505974208)
+
 
 A program to train a neural network using gene expression datasets GSE6269 and GSE63990 and use the resulting parameters to generate DNA sequences for a molecular computer modelled after the neural network. Contains files to clean the datasets, train the neural network using PyTorch, store the parameters of a trained model, generate DNA sequences for the molecular model using the trained parameters and store them in a dataframe.
 
